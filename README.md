@@ -1,4 +1,4 @@
-# NikitaSchomerus_LegacyPortfolio
+# First Website - VanillaJS project
 
 My first Website from 2020! An artist portfolio for my talented friend Nikita Schomerus ([@nikita_schoemrus](https://www.instagram.com/nikita_schomerus/?hl=en)). 
 
