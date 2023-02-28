@@ -6,4 +6,4 @@ It was my first deeper VanillaJS and CSS exercise.
 
 Currenlty hosted on GitHub Pages:
 
-https://juicycodedev.github.io/NikitaSchomerus_LegacyPortfolio/
+https://pavelbuilds.github.io/NikitaSchomerus_LegacyPortfolio/
